@@ -1,0 +1,19 @@
+body {
+  background-color:#DEDEDE;
+  padding-top: 20px;
+}
+
+.input {
+  width: 40%;
+  margin-top: 40px;
+  font-size: 1em;
+}
+
+li {
+  text-align: left;
+}
+
+ul {
+ padding-left: 30%;
+ list-style-type: none;
+}
